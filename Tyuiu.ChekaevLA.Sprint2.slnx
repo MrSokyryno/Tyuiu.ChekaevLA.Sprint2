@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint2.Task0.V16/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task0.V16.Lib/Tyuiu.ChekaevLA.Sprint2.Task0.V16.Lib.csproj" Id="d1674042-8fc7-4daf-98b8-7cb42f4cbceb" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task0.V16.Test/Tyuiu.ChekaevLA.Sprint2.Task0.V16.Test.csproj" Id="4f6977e6-b648-4373-bdfa-722cb202f684" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task0.V16/Tyuiu.ChekaevLA.Sprint2.Task0.V16.csproj" Id="20b682ad-e60b-487d-ae14-ccf34b98c704" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint2.Task1.V9/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task1.V9.Lib/Tyuiu.ChekaevLA.Sprint2.Task1.V9.Lib.csproj" Id="e1814c63-4591-4051-9dd4-ca5194d88cc6" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task1.V9.Test/Tyuiu.ChekaevLA.Sprint2.Task1.V9.Test.csproj" Id="52675876-a2ff-44fa-9920-5c2fc9d02838" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task1.V9/Tyuiu.ChekaevLA.Sprint2.Task1.V9.csproj" Id="8b6e6e66-7e57-4770-829a-bd6e29f24814" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint2.Task2.V7/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task2.V7.Lib/Tyuiu.ChekaevLA.Sprint2.Task2.V7.Lib.csproj" Id="b4c70bdc-73fa-4296-94c7-5c81cc6c8311" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task2.V7.Test/Tyuiu.ChekaevLA.Sprint2.Task2.V7.Test.csproj" Id="e9482162-e1f0-41dc-b554-a07b8b2522c0" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task2.V7/Tyuiu.ChekaevLA.Sprint2.Task2.V7.csproj" Id="320a1803-d1f5-4514-ab8e-9757a8873791" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint2.Task3.V18/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task3.V18.Lib/Tyuiu.ChekaevLA.Sprint2.Task3.V18.Lib.csproj" Id="bedcc549-e76f-47bf-a06b-81ddc8ec58e7" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task3.V18.Test/Tyuiu.ChekaevLA.Sprint2.Task3.V18.Test.csproj" Id="00e54169-8b14-46b9-a52a-333c5228b0af" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task3.V18/Tyuiu.ChekaevLA.Sprint2.Task3.V18.csproj" Id="6cbe5e57-1f9c-4735-a749-dfa517ccaa11" />
+  </Folder>
+</Solution>

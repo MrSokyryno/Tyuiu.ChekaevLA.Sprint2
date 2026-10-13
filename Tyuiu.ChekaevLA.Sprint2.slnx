@@ -19,4 +19,24 @@
     <Project Path="Tyuiu.ChekaevLA.Sprint2.Task3.V18.Test/Tyuiu.ChekaevLA.Sprint2.Task3.V18.Test.csproj" Id="00e54169-8b14-46b9-a52a-333c5228b0af" />
     <Project Path="Tyuiu.ChekaevLA.Sprint2.Task3.V18/Tyuiu.ChekaevLA.Sprint2.Task3.V18.csproj" Id="6cbe5e57-1f9c-4735-a749-dfa517ccaa11" />
   </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint2.Task4.V27/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task4.V27.Lib/Tyuiu.ChekaevLA.Sprint2.Task4.V27.Lib.csproj" Id="b08fd43e-1b32-4b4c-9a00-be0497a198a5" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task4.V27.Test/Tyuiu.ChekaevLA.Sprint2.Task4.V27.Test.csproj" Id="58e85d8d-7476-478b-96f2-d0864710d4b7" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task4.V27/Tyuiu.ChekaevLA.Sprint2.Task4.V27.csproj" Id="ef4cb427-d0a9-40a1-9313-9a9f06439e2a" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint2.Task5.V7/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task5.V7.Lib/Tyuiu.ChekaevLA.Sprint2.Task5.V7.Lib.csproj" Id="de1098b3-0079-44b5-a98f-180754cb3d03" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task5.V7.Test/Tyuiu.ChekaevLA.Sprint2.Task5.V7.Test.csproj" Id="b54d9bdf-7f19-436e-a507-24668869f8ce" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task5.V7/Tyuiu.ChekaevLA.Sprint2.Task5.V7.csproj" Id="c57abd04-51fa-4515-bad0-a6803509f440" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint2.Task6.V8/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task6.V8.Lib/Tyuiu.ChekaevLA.Sprint2.Task6.V8.Lib.csproj" Id="48e25703-2aaa-4067-9d7c-87129878df73" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task6.V8.Test/Tyuiu.ChekaevLA.Sprint2.Task6.V8.Test.csproj" Id="66f84f83-a93a-485c-baa1-e314423a9374" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task6.V8/Tyuiu.ChekaevLA.Sprint2.Task6.V8.csproj" Id="d2a2df9d-3489-4439-a0de-b42f262c8338" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint2.Task7.V1/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task7.V1.Lib/Tyuiu.ChekaevLA.Sprint2.Task7.V1.Lib.csproj" Id="269d9163-5f16-4dde-82be-80d5a44af51a" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task7.V1.Test/Tyuiu.ChekaevLA.Sprint2.Task7.V1.Test.csproj" Id="8a0da81a-0c4f-4630-a920-081d4c26dafe" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint2.Task7.V1/Tyuiu.ChekaevLA.Sprint2.Task7.V1.csproj" Id="ed61e3fd-6793-45bc-8a30-f220667c7478" />
+  </Folder>
 </Solution>
